@@ -1,5 +1,4 @@
 from data_create import input_user_data
-import itertools
 
 def input_data():
     name, surname, phone, adress = input_user_data()
